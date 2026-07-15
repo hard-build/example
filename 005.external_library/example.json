@@ -1,0 +1,1 @@
+{"app":{"name":"MyApp","version":"1.0.0","debug":false},"database":{"host":"localhost","port":5432,"user":"admin"},"features":{"darkMode":true,"notifications":true}}
